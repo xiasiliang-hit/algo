@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1244347001 source:c:\documents and settings\administrator\桌面\binarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+	"BinaryTree.cpp"
+
+1244347305 c:\documents and settings\administrator\桌面\binarytree\binarytree.h
+
+1244347034 c:\documents and settings\administrator\桌面\binarytree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+
+1244347305 source:c:\documents and settings\administrator\桌面\binarytree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+
